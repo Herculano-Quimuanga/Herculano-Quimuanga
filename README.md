@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Herculano-Quimuanga
-- 👀 I’m interested in web developer and engenner software
-- 🌱 I’m currently learning is portuguese
-- 💞️ I’m looking to collaborate on tecnolgy
-- 📫 How to reach me ...
-- 😄 Pronouns: Ares
-- ⚡ Fun fact: I dance
+# Olá! 👋 Eu sou o Herculano Quimuanga
 
-<!---
-Herculano-Quimuanga/Herculano-Quimuanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Desenvolvedor Web | 🎨 UI/UX Designer | 🔧 Suporte Técnico em TI
+
+Apaixonado por transformar ideias em soluções digitais impactantes, com foco em criar experiências intuitivas e funcionais para os usuários. No meu trabalho, alio habilidades de desenvolvimento web e design UI/UX, sempre buscando otimizar e aprimorar a experiência do usuário.
+
+### 🌱 Atualmente aprendendo
+
+Aprofundando conhecimentos em desenvolvimento de desenvolvimento web e metodologias de design centrado no usuário para oferecer soluções ainda mais completas.
+
+### 📫 Vamos nos conectar!
+
+Se você quer colaborar em algum projeto ou discutir ideias, sinta-se à vontade para entrar em contato! Vamos criar algo incrível juntos!
+
